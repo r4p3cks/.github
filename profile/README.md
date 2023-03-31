@@ -1,6 +1,5 @@
 <hr></hr>
 <p align="center">
-<br></br>
 <img width="18.75%" height= "18.75%" src="https://assets.tryhackme.com/img/logo/THMlogo-gray_scale.png"/>
 <br></br>
 <br></br>
