@@ -8,7 +8,7 @@
 <br></br>
 <a href="https://tryhackme.com/p/ang3lo.azevedo"><img src="https://tryhackme-badges.s3.amazonaws.com/ang3lo.azevedo.png"></a>
 <br></br>
-<a href="https://tryhackme.com/p/Reberpower"><img src="https://tryhackme-badges.s3.amazonaws.com/Reberpower.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/Reberpower"><script src="https://tryhackme.com/badge/1744976"></script></a>
 <br></br>
 <a href="https://tryhackme.com/p/Ghostzao"><img src="https://tryhackme-badges.s3.amazonaws.com/Ghostzao.png"></a>
 <br></br>
